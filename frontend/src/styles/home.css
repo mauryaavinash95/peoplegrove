@@ -1,0 +1,41 @@
+.title {
+    display: flex;
+    align-items: flex-start;
+    align-content: flex-start;
+    vertical-align: middle;
+    justify-content: space-between;
+}
+
+.userData {
+    display: flex;
+    padding-top: 0.3rem;
+    padding-bottom: 0.3rem;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+.detailContainer {
+    display: flex;
+    padding: 0.2rem;
+    align-items: flex-start;
+    align-content: flex-start;
+}
+
+.set-schedule {
+    vertical-align: center;
+    margin-top: 0.1rem;
+    padding: 0.9rem;
+}
+
+.name  {
+    font-size: 1.5rem;
+}
+
+.pageTitle {
+    padding: 0.2rem;
+}
+
+.timezone {
+    font-size: 0.85rem;
+    color: rgb(94, 94, 94)
+}

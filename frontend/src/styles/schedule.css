@@ -1,0 +1,32 @@
+.scheduleCard {
+    display: flex;
+    justify-content: space-between; 
+}
+
+.scheduleDetails {
+    display: flex;
+}
+
+.scheduleTime {
+    color: "#808080";
+    margin-right: 1.6rem;
+}
+
+.deleteCard {
+    padding: 0.3rem;
+    vertical-align: 50%;
+    cursor: pointer;
+}
+
+.date{
+    /* font-family: Arial, Helvetica, sans-serif; */
+    font-size: 1.3rem;
+    padding: 0.3rem;
+}
+
+.no-reservations {
+    display: flex;
+    padding: 0.3rem;
+    align-content: flex-start;
+    align-items: flex-start;
+}
