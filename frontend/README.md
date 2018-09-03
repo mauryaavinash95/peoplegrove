@@ -1,5 +1,14 @@
 ## Plan Guru frontend.
 
+### How to run
+```
+git clone https://github.com/mauryaavinash95/peoplegrove.git
+cd backend/
+npm install
+npm start # Defaults to port 3000
+# For custom port run: NODE_ENV=dev PORT=$customPort node server.js
+```
+
 ### Folder structure:
 Basic structure created by create-react-app (CRA).
 ```
