@@ -1,5 +1,16 @@
 ## Plan Guru backend
 
+### How to run
+```
+git clone https://github.com/mauryaavinash95/peoplegrove.git
+cd backend/
+npm install
+npm start # Defaults to port 3000
+# For custom port run: NODE_ENV=dev PORT=$customPort node server.js
+# To point to local DB, edit config/local_conf.json
+# DB Schema gets created automatically
+```
+
 ### Routes:
 1. User Signup      
 POST `/signup`      
