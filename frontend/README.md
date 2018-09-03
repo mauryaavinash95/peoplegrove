@@ -3,10 +3,9 @@
 ### How to run
 ```
 git clone https://github.com/mauryaavinash95/peoplegrove.git
-cd backend/
+cd frontend/
 npm install
-npm start # Defaults to port 3000
-# For custom port run: NODE_ENV=dev PORT=$customPort node server.js
+npm start
 ```
 
 ### Folder structure:
