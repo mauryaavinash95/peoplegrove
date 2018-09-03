@@ -6,6 +6,7 @@ git clone https://github.com/mauryaavinash95/peoplegrove.git
 cd frontend/
 npm install
 npm start
+# To point to local API server edit src/config.js and point to http://localhost:4000/apis/v1/
 ```
 
 ### Folder structure:
