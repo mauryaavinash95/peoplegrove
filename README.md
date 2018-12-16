@@ -4,4 +4,4 @@
 
 [Backend doc](backend/README.md)
 
-[Live Application](plan-guru.herokuapp.com)
+[Live Application](https://plan-guru.herokuapp.com)
